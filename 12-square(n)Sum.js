@@ -8,4 +8,4 @@
 
 const squareSum = numbers => numbers.reduce((total, value) => (value**2 + total), 0)
 
-console.log(squareSum([1]))
+console.log(squareSum([12]))
