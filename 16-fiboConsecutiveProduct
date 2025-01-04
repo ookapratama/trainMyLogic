@@ -1,0 +1,10 @@
+//  16 Product of consecutive Fib numbers
+//  source : https://www.codewars.com/kata/5541f58a944b85ce6d00006a/train/javascript
+
+function productFib(prod) {
+    if (prod == 0) {
+        return 
+    }
+}
+
+productFib(10);
